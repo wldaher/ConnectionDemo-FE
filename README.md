@@ -31,6 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Bootstrap stylings added via CDN link in the index.html file at the end of the <head> section
 
 ## Tools
-- Visual Studio Code
-- Node.js
+- Visual Studio Code (https://code.visualstudio.com/download)
+- Node.js (https://nodejs.org/en/download)
 - Angular CLI (install by running 'npm install -g @angular/cli@16.1.0')
